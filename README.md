@@ -20,7 +20,7 @@ Her legger jeg ut hvordan jeg løser ting, inkludert blindveiene.
 
 ## CTF
 
-Øver jevnlig på picoCTF, CTFlearn, TryHackMe og LetsDefend, og deltar på CTF-er når jeg får muligheten.
+Øver jevnlig på picoCTF, CTFlearn, TryHackMe, og deltar på CTF-er når jeg får muligheten.
 
 ## Verktøy jeg bruker
 
