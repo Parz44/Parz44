@@ -2,7 +2,7 @@
 
 ```
 $ whoami
-Bachelor i digital forensics fra Noroff, fordi jeg liker å finne ut av ting folk helst vil skjule.
+Bachelor i digital forensics, fordi jeg liker å finne ut av ting folk helst vil skjule.
 ```
 
 Jobber med anti-hvitvask i KPMG og graver i transaksjoner for å se om det kunden sier stemmer med det kunden faktisk gjør. Det gjør det ikke alltid. På fritiden graver jeg i diskbilder, minnedumper og pcap-filer, og har lært at «slettet» sjelden betyr det du tror.
