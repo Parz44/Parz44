@@ -1,4 +1,4 @@
-# Hei, jeg er Parz 👋
+# Hei👋
 
 ```
 $ whoami
